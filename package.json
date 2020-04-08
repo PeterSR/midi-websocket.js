@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/PeterSR/midi-websocket.js/issues"
   },
-  "homepage": "https://github.com/PeterSR/midi-websocket.js#readme"
+  "homepage": "https://github.com/PeterSR/midi-websocket.js#readme",
+  "dependencies": {
+    "events": "^3.1.0"
+  }
 }
