@@ -2,7 +2,7 @@
   "name": "midi-websocket",
   "version": "1.0.0",
   "description": "Control MIDI devices via Websockets in JavaScript.",
-  "main": "MIDISocket.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
